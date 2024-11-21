@@ -1,4 +1,3 @@
-![Imagem de capa escrito acessibilidade web manipulando WAI-ARIA com javascript, curso de acessibilidade com javascript](./thumbnail.png)
 
 ![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
 
